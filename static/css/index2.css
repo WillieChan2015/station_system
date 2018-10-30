@@ -1,0 +1,88 @@
+
+.add_cars {
+    width: 100%;
+    height: 30px;
+}
+.add_cars label {
+    padding-left: 20px;
+}
+.chk_ticket {
+    clear: both;
+    width: 100%;
+    /*height: 80px;*/
+    height: auto;
+}
+
+.chk_input input {
+    width: 80px;
+}
+#price, #price2 {
+    width: 40px;
+}
+
+.account-cfg {
+    width: 800px;
+    height: auto;
+    /*border: solid #f2dede 1px;*/
+    margin: 20px auto;
+    border: solid #ddd 1px;
+    border-radius: 4px;
+}
+.account-cfg-tab {
+    /*background: #adadad;*/
+    width: 800px;
+    height: 40px;
+    margin: 0 auto;
+}
+.account-cfg-manage {
+    width: 800px;
+    /*height: 800px;*/
+    margin: 0 auto;
+    /*border-left: solid #ddd 1px;*/
+    /*border-right: solid #ddd 1px;*/
+}
+.manage-header {
+    width: 750px;
+    height: 60px;
+    /*background: #f2dede;*/
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin: 0 auto;
+}
+.btn_ck_account {
+    margin-left: 20px;
+    /*margin-top: 12px;*/
+}
+label {
+    margin-bottom: 0;
+}
+.manage-header label, .manage-header select {
+    font-size: 16px;
+}
+.manage-header select {
+    height: 35px;
+    /*width: 200px;*/
+    margin-left: 20px;
+}
+.manage-header label {
+    margin-left: 50px;
+}
+#btn-deal {
+    margin-left: 20px;
+}
+.manage-content {
+}
+.account-cfg-add {
+    width: 600px;
+    height: 400px;
+    margin: 50px auto 0;
+}
+.btn-add-btn-div {
+    margin: 10px 235px;
+}
+.btn-add-btn-div button {
+    width: 130px;
+}
+.has-feedback label ~ .form-control-feedback {
+    top: 20px;
+}

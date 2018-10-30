@@ -1,0 +1,110 @@
+body {
+    background: #faebcc;
+}
+
+.display {
+    display: none;
+}
+.title {
+    width: 400px;
+    float: left;
+}
+.log-out {
+    width: 100px;
+    float: right;
+}
+.log-out a {
+    float: right;
+}
+.clear_float {
+    clear: both;
+}
+.header > p {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.header {
+    height: 80px;
+    width: 1000px;
+    margin: 0 auto;
+}
+.h1 {
+    margin-top: 10px;
+}
+
+.tab1 {
+    width: auto;
+    height: 40px;
+    background-color: #5bc0de;
+}
+
+.tab1_in {
+    width: 1000px;
+    margin: 0 auto;
+}
+.tab1_in ul li a {
+    color: white;
+}
+.tab1_in ul li a:hover {
+    color: #2a6496;
+}
+.tab1_in ul {
+    border-bottom: 0;
+}
+
+.main {
+    width: 1000px;
+    height: auto;
+    border: solid 1px #adadad;
+    border-radius: 4px;
+    margin: 2px auto 10px;
+    background-color: #f9f9f9;
+}
+
+.chk_ticket {
+    clear: both;
+    width: 100%;
+    /*height: 40px;*/
+    height: auto;
+}
+
+.chk_input {
+    height: 36px;
+    margin: 0 auto;
+    padding: 5px 0;
+    text-align: center;
+}
+.chk_input button {
+    margin-left: 15px;
+
+}
+.chk_input label {
+    margin-bottom: 0;
+}
+.ticket_show {
+    background-color: #f9f9f9;
+    margin-top: 10px;
+}
+.ticket_show table {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#sum_up, #sum_up2, #sum_up3, #sum_up4, #sum_up5, #account_sum_up {
+    height: 30px;
+}
+#sum_l, #sum_l2, #sum_l3, #sum_l4, #sum_l5, #account_sum_l {
+    margin-left: 10px;
+}
+
+.show_pa {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+.alert {
+    margin-bottom: 0;
+}

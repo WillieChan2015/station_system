@@ -1,0 +1,29 @@
+body {
+    background: url("/static/images/1.jpg");
+}
+.hide {
+    display: none;
+}
+
+.login {
+    background-color: whitesmoke;
+    width: 400px;
+    /*height: 300px;*/
+    height: auto;
+    margin: 200px auto auto;
+    border: solid #5e5e5e 1px;
+}
+
+.login_in {
+    margin: 0 10px 20px;
+
+}
+
+.login_logo {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.alert {
+    margin-bottom: 0;
+}
